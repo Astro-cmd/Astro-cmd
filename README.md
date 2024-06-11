@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Astro
 - 👀 I’m interested in python and software development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coding camps
+
 - 📫 How to reach me ...
 mmuichuhia@gmail.com
 <!---
